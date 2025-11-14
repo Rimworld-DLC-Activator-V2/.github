@@ -30,7 +30,8 @@
 
 ## 🚀 Activation Guide
 
-### Step 1 — get CreamAPI and follow the instructions
+## 💾 Automatic Activation (Recommended)
+### Get CreamAPI and follow the instructions
 - Get the latest release.
 - Extract the archive anywhere you like (it’s fully portable), launch CreamAPI and follow the instructions.
 
